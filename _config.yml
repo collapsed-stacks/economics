@@ -1,0 +1,11 @@
+{
+  "exclude": [
+    "data"
+  ],
+  "stack_site": {
+    "name": "Economics Stack Exchange",
+    "proposal_id": 1618,
+    "slug": "economics"
+  },
+  "title": "Economics Stack Exchange Archive"
+}
